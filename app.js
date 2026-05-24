@@ -446,7 +446,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "CHWNKIMA VERONICA MEIRINGMEI",
     roll: "NDUIBC2569", course: "BCA (4 Years)", section: "SECTION C",
-    meme: null, reason: null },
+    meme: "veronica.jpg", reason: "funny" },
   { name: "YUNGLAMA SHIMREIDAR MARING",
     roll: "NDUIBC2570", course: "BCA (4 Years)", section: "SECTION C",
     meme: null, reason: null },
